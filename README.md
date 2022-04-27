@@ -3,15 +3,15 @@ Author: João Victor David de Oliveira (j.victordavid2@gmail.com)
 README.md (c) 2022
 Desc: description
 Created:  2022-04-27T03:44:49.374Z
-Modified: 2022-04-27T04:06:41.035Z
+Modified: 2022-04-27T04:07:58.592Z
 -->
 
 ## Oi eu sou o João Victor Davi de Oliveira, desenvolvedor Junior!
 
 <div align="center">
   <a href="https://github.com/jvddavid">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvddavid&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvddavid&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvddavid&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvddavid&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
