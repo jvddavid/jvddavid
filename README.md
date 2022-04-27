@@ -3,7 +3,7 @@ Author: João Victor David de Oliveira (j.victordavid2@gmail.com)
 README.md (c) 2022
 Desc: description
 Created:  2022-04-27T03:44:49.374Z
-Modified: 2022-04-27T04:07:58.592Z
+Modified: 2022-04-27T04:16:14.019Z
 -->
 
 ## Oi eu sou o João Victor Davi de Oliveira, desenvolvedor Junior!
@@ -28,6 +28,9 @@ Modified: 2022-04-27T04:07:58.592Z
  	<a href = "mailto:j.victordavid2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jvddavid" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-victor-davi-abb8341a3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5534999475798&text=Oi, preciso de mais informações suas!" target="_blank" class="button button__small button__gray">
+      <img src="https://img.shields.io/badge/-Whatsapp-%2300ff00?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
 
 ![Snake animation](https://github.com/jvddavid/jvddavid/blob/output/github-contribution-grid-snake.svg)
 
