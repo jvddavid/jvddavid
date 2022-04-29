@@ -6,7 +6,7 @@ Created:  2022-04-27T03:44:49.374Z
 Modified: 2022-04-27T04:16:14.019Z
 -->
 
-## Oi eu sou o João Victor Davi de Oliveira, desenvolvedor Junior!
+## Oi eu sou o João Victor Davi, Desenvolvedor Júnior!
 
 <div align="center">
   <a href="https://github.com/jvddavid">
