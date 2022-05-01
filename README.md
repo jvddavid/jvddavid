@@ -3,15 +3,15 @@ Author: João Victor David de Oliveira (j.victordavid2@gmail.com)
 README.md (c) 2022
 Desc: description
 Created:  2022-04-27T03:44:49.374Z
-Modified: 2022-05-01T19:58:18.944Z
+Modified: 2022-05-01T19:59:32.089Z
 -->
 
 # Oi, eu sou o João Victor Davi, Desenvolvedor Júnior!
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvddavid&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide=contribs,stars"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvddavid&layout=compact&langs_count=10&theme=vision-friendly-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@jvddavid&theme=vision-friendly-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jvddavid&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide=contribs,stars"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvddavid&layout=compact&langs_count=10&theme=vision-friendly-dark"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@jvddavid&theme=vision-friendly-dark"/>
 </div>
 
 ## 👇🏻 Entre em contato comigo 👇🏻
