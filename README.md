@@ -3,7 +3,7 @@ Author: João Victor David de Oliveira (j.victordavid2@gmail.com)
 README.md (c) 2022
 Desc: description
 Created:  2022-04-27T03:44:49.374Z
-Modified: 2022-05-01T19:59:32.089Z
+Modified: 2022-05-01T20:05:28.685Z
 -->
 
 # Oi, eu sou o João Victor Davi, Desenvolvedor Júnior!
@@ -14,9 +14,8 @@ Modified: 2022-05-01T19:59:32.089Z
   <img height="90em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@jvddavid&theme=vision-friendly-dark"/>
 </div>
 
-## 👇🏻 Entre em contato comigo 👇🏻
+<h2 align="center">👇🏻 Entre em contato comigo 👇🏻</h2>
 
-##
 
 <div align="center">
  	<a href = "mailto:j.victordavid2@gmail.com">
@@ -36,31 +35,32 @@ Modified: 2022-05-01T19:59:32.089Z
   </a>
 </div>
 
-## ⭐️ Algumas tecnologias que eu possuo mais experiência ⭐️
+<h2 align="center">⭐️ Algumas tecnologias que eu possuo mais experiência ⭐️</h2>
 
-##
+<div align="center">
+  <a href="https://www.javascript.com/"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <a href="https://www.typescriptlang.org/"><img height= "35" src= "https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
 
-<a href="https://www.javascript.com/"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-<a href="https://www.typescriptlang.org/"><img height= "35" src= "https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
+  <a href="https://reactjs.org/"><img height= "35" src= "https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
+  <a href="https://vuejs.org/"><img height= "35" src= "https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"></a>
 
-<a href="https://reactjs.org/"><img height= "35" src= "https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
-<a href="https://vuejs.org/"><img height= "35" src= "https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="https://tailwindcss.com/"><img height= "35" src= "https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 
-<a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="https://tailwindcss.com/"><img height= "35" src= "https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+  <a href="https://www.docker.com/"><img height= "35" src= "https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
 
-<a href="https://www.docker.com/"><img height= "35" src= "https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="https://www.mysql.com/"><img height= "35" src= "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="https://www.postgresql.org/"><img height= "35" src= "https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+  <a href="https://redis.io/"><img height= "35" src= "https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"></a>
 
-<a href="https://www.mysql.com/"><img height= "35" src= "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="https://www.postgresql.org/"><img height= "35" src= "https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-<a href="https://redis.io/"><img height= "35" src= "https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"></a>
+  <a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/"><img height= "35" src= "https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
 
-<a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-<a href="https://github.com/"><img height= "35" src= "https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<h2 align="center">📖 Algumas tecnologias que possuo menos experiência ou estou aprendendo 📖</h2>
 
-## 📖 Algumas tecnologias que possuo menos experiência 📖
-
+<div align="center">
 <a href="https://nextjs.org/"><img height= "35" src= "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
 <a href="https://vercel.org/"><img height= "35" src= "https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
@@ -85,5 +85,6 @@ Modified: 2022-05-01T19:59:32.089Z
 <a href="https://unity.com"><img height= "35" src= "https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"></a>
 
 <a href="https://www.office.com"><img height= "35" src= "https://img.shields.io/badge/Microsoft Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=black"></a>
+</div>
 
 ![Snake animation](https://github.com/jvddavid/jvddavid/blob/output/github-contribution-grid-snake.svg)
