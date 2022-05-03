@@ -11,7 +11,7 @@ Modified: 2022-05-02T17:12:39.424Z
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jvddavid&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide=contribs,stars"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvddavid&layout=compact&langs_count=10&theme=vision-friendly-dark"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@jvddavid&theme=vision-friendly-dark&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@jvddavid&theme=vision-friendly-dark&layout=compact&langs_count=10"/>
 </div>
 
 <h2 align="center">👇🏻 Entre em contato comigo 👇🏻</h2>
