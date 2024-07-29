@@ -6,15 +6,22 @@ Created:  2022-04-27T03:44:49.374Z
 Modified: 2022-05-02T17:12:39.424Z
 -->
 
-# Oi, eu sou o João Victor Davi, Desenvolvedor Júnior
+# Oi, eu sou o João Victor Davi, Desenvolvedor Fullstack Júnior.
+
+Sou apaixonado por tecnologia e desenvolvimento de software. Tenho experiência em diversas tecnologias e estou sempre buscando aprender mais.
 
 <div align="center">
-<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jvddavid&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide=contribs,stars"/> -->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvddavid&layout=compact&langs_count=10&theme=vision-friendly-dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@jvddavid&theme=vision-friendly-dark&layout=compact&langs_count=10"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvddavid&layout=compact&langs_count=10&theme=vision-friendly-dark"/>
 </div>
 
-<h2 align="center">👇🏻 Entre em contato comigo 👇🏻</h2>
+## 🚀 Tecnologias e Ferramentas
+
+- **Linguagens:** JavaScript, PHP
+- **Frameworks:** React, Node.js, Laravel, Wordpress
+- **Ferramentas:** Git, Docker, VS Code, PHP Storm
+
+## 👇🏻 Entre em contato comigo
 
 <div align="center">
   <a href = "mailto:j.victordavid2@gmail.com">
@@ -36,16 +43,17 @@ Modified: 2022-05-02T17:12:39.424Z
 <div align="center">
   <a href="https://www.javascript.com/"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
   <a href="https://www.typescriptlang.org/"><img height= "35" src= "https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
-  
+  <a href="https://www.php.net/"><img height= "35" src= "https://img.shields.io/badge/PHP-8d1dd8?style=for-the-badge&logo=php&logoColor=white"></a>
+
 <a href="https://nextjs.org/"><img height= "35" src= "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
 <a href="https://vercel.org/"><img height= "35" src= "https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://vercel.org/"><img height= "35" src= "https://img.shields.io/badge/Laravel-d8621d?style=for-the-badge&logo=laravel&logoColor=white"></a>
 
 <a href="https://reactjs.org/"><img height= "35" src= "https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
 <a href="https://vuejs.org/"><img height= "35" src= "https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"></a>
 
 <a href="https://nodejs.org/en/"><img height= "35" src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
 <a href="https://python.org/"><img height= "35" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-
 
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
