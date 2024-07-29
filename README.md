@@ -18,7 +18,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Tenho experiência 
 ## 🚀 Tecnologias e Ferramentas
 
 - **Linguagens:** JavaScript, PHP
-- **Frameworks:** React, Node.js, Laravel, Wordpress
+- **Frameworks:** React, Node.js, Laravel
 - **Ferramentas:** Git, Docker, VS Code, PHP Storm
 
 ## 👇🏻 Entre em contato comigo
