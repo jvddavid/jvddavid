@@ -27,9 +27,10 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Tenho experiência 
   <a href = "mailto:j.victordavid2@gmail.com">
    <img src="https://img.shields.io/badge/-Gmail-%23222?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="E-Mail" />
   </a>
-  <a href = "https://jvddavid.github.io">
+  <!--<a href = "https://jvddavid.github.io">
    <img src="https://img.shields.io/badge/-Github Page-%23222?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="Github Page" />
   </a>
+  -->
   <a href="https://www.linkedin.com/in/joão-victor-davi-abb8341a3" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LikedIn">
   </a>
